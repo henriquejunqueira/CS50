@@ -1,45 +1,45 @@
 # CS50
 
-Repositório para exercícios e exemplos do curso de Ciência da Computação (CS50) de Harvard
+Repository for exercises and examples from the Harvard Computer Science course (CS50)
 
-### Comandos utilizados no módulo 01 de linguagem C:
+### Commands used in C language module 01:
 
 - cd modulo01-C
 - make hello
 - ./hello
 
-## Tópicos abordados na Aula 1 - Linguagem de Programação C:
+## Topics covered in Class 1 - C Programming Language:
 
 - C
 
 - Hello World
 
-- Compilação
+- Compilation
 
-- Funções e argumentos
+- Functions and arguments
 
-- Função principal (main) e arquivos de cabeçalho
+- Main function and header files
 
-- Ferramentas
+- Tools
 
-- Comandos
+- Commands
 
-- Tipos e Códigos de Formato
+- Format Types and Codes
 
-- Operadores, limitações, truncamento
+- Operators, limitations, truncation
 
-- Variáveis e Açúcar Sintático(boas práticas)
+- Variables and Syntactic Sugar (good practices)
 
-- Condicionais
+- Conditionals
 
-- Expressões booleanas, loops
+- Boolean expressions, loops
 
-- Abstração
+- Abstraction
 
 - Mario
 
-- Memória, imprecisão e overflow
+- Memory, inaccuracy and overflow
 
-#### Observação:
+#### Observation:
 
-- Nos códigos do módulo de c são utilizadas funções como `get_long`, `get_int`, etc, que vem da biblioteca do próprio cs50, que é a `cs50.h`, portanto pra rodar os códigos que utilizam essa biblioteca será necessário modificar a abordagem do código utilizado ou rodar diretamente na [ide da cs50](https://cs50.dev) que já contém essas bibliotecas instaladas;
+- The c module codes use functions such as `get_long`, `get_int`, etc., which come from the cs50 library itself, which is `cs50.h`, so to run the codes that use this library it will be necessary to modify the approach to the code used or run directly on the [cs50 ide](https://cs50.dev) which already contains these libraries installed;
